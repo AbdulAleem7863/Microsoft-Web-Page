@@ -1,0 +1,223 @@
+.mclogo{
+    width: 150px;
+    height: 50px;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.header{
+       background: white;
+       font-size: 1em;
+       margin: 10px;
+       display: flex;
+       display: inline;
+       word-spacing: 20px;
+       order: 5;
+       flex-direction: row;
+}
+.mc{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.office{
+    margin-left: 30px;
+   
+}
+.wind{
+    margin-left: 30px;
+    
+}
+.suppport{
+    margin-left: 30px;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.purple{
+    background-color: rgb(15, 51, 94);
+    height: 598px;
+    width: 645px;
+}
+.h3{
+    color: white;
+    margin-left:120px;
+    padding-top: 220px;
+}
+.h54{
+    color: white;
+    margin-left:120px;
+    
+}
+.crop{
+    margin-left: 100%;
+    margin-top: -335px;
+}
+.btn{
+    border: rgb(34, 60, 133);
+    background-color: rgb(34, 60, 133);
+    color: white;
+    margin-left:110px ;
+    margin-top: 5px;
+}
+.learn{
+    color: white;
+    margin-left:40px ;
+    margin-top: 1px;
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 2px;
+}
+
+.pics{
+   height: 200px;
+   width: 340px;
+   margin-top: 120px;
+   margin-left: 30px;
+}
+.piconea{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+.seconddiv{
+    height: 200px;
+   width: 320px;
+   margin-top: 120px;
+   margin-left: 360px;
+   margin-top: -200px;
+}
+
+.thirddiv{
+    height: 200px;
+   width: 310px;
+   margin-top: 120px;
+   margin-left: 680px;
+   margin-top: -200px;
+}
+.fourthpic{
+    height: 200px;
+    width: 320px;
+    margin-top: 120px;
+    margin-left: 1010px;
+    margin-top: -200px;
+    
+}
+.thirdpara{
+    margin-top: 250px;
+    margin-left: 50px;
+}
+.parahd{
+    color: black;
+    margin-top:-350px ;
+    margin-left: 150px;
+}
+.bigpicpara{
+    color: black;
+    margin-left: 150px;
+    width: 300px;
+}
+.lrn{
+    border: rgb(0, 68, 255);
+    background-color: rgb(0, 68, 255);
+    color: white;
+    margin-left:150px ;
+    margin-top: 5px;
+    padding: 10px;
+}
+.fifthimg{
+    height: 200px;
+   width: 330px;
+   margin-top: 250px;
+   margin-left: 20px;
+}
+.sixthimg{
+    height: 200px;
+   width: 330px;
+   margin-left: 340px;
+   margin-top:-200px ;
+}
+.seventhimg{
+    height: 200px;
+    width: 330px;
+    margin-left: 680px;
+    margin-top:-200px ;
+}
+.eightimg{
+    height: 200px;
+    width: 330px;
+    margin-left: 1000px;
+    margin-top:-200px ;
+}
+.ninepara{
+    background-color: rgb(199, 190, 190);
+    height: 500px;
+    width: 1349px;
+    margin-top: 250px;
+}
+.ninehd{
+    color: rgb(112, 79, 79) ;
+    margin-left: 80px;
+    margin-top: -400px;
+}
+.h5{
+    margin-left: -5px;
+    color: rgb(112, 79, 79) ;
+}
+.ajeeb{
+    margin-left: -30px;
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 30px;
+}
+.edu{
+    margin-left: -40px;
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 30px;
+}
+.tenpara{
+    color: rgb(112, 79, 79) ;
+    margin-left: 350px;
+    margin-top: -170px;
+}
+.elevenpara{
+    color: rgb(112, 79, 79) ;
+    margin-left: 630px;
+    margin-top: -290px;
+}
+.bus{
+    margin-left: -40px;
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 30px;
+}
+.twelvepara{
+    color: rgb(112, 79, 79) ;
+    margin-left: 800px;
+    margin-top: -290px;
+}
+.dev{
+    margin-left: -40px;
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 30px;
+}
+.thirteenpara{
+    color: rgb(112, 79, 79) ;
+    margin-left: 1000px;
+    margin-top: -290px;
+}
+.comp{
+    margin-left: -40px;
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 30px;
+}
+.btop{
+    background-color: grey;
+    border: none;
+    padding: 10px;
+    margin-left: 90%;
+    
+}
